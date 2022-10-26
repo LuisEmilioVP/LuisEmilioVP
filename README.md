@@ -3,15 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=354B5E&center=true&vCenter=true&width=1000&height=100&lines=Hello+World+%5E_%5E+!;My+name+is+Luis+Emilio+Valenzuela;I+from+Dominican+Republic;I+Study+Software+Development)](https://git.io/typing-svg)
 
 <div align="center">
-	<h1>Be Welcome! ✋</h1>
-	<h3>
-		A passionate web full stack developer. I like to experiment with computer
-		technologies, is very exciting for me.
-	</h3>
+<h1>Be Welcome! ✋</h1>
+<h3>
+A passionate web full stack developer. I like to experiment with computer technologies, is very exciting for me.
+</h3>
 </div>
 
 <div align="center">
-
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&show_icons=true&count_private=true&hide_border=true&title_color=354B5E&icon_color=005792&text_color=c9d1d9&bg_color=0d1117"
+alt="Caroline Barbosa github stats"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisemiliovp&layout=compact&hide_border=true&title_color=354B5E&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 
 <h3 align="left">📩 Connect</h3>
