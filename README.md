@@ -12,7 +12,7 @@ A passionate web full stack developer. I like to experiment with computer techno
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&show_icons=true&count_private=true&hide_border=true&title_color=354B5E&icon_color=005792&text_color=c9d1d9&bg_color=0d1117"
 alt="Caroline Barbosa github stats"/>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisemiliovp&layout=compact&hide_border=true&title_color=354B5E&text_color=ff91a4&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisemiliovp&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /
 </div>
 
 <h3 align="left">📩 Connect</h3>
