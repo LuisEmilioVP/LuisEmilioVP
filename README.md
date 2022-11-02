@@ -17,5 +17,10 @@ A passionate web full stack developer. I like to experiment with computer techno
 <h3>📩 Follow me around the web </h3>
 <p> Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕. </p>
 </div>
-  
  
+<div align="left">
+<code><a href="https://www.facebook.com/luisemiliovp/" target="blank"><img alt="luisemiliovp" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a></code> 
+<code><a href="https://www.instagram.com/luisemiliovalenzuela1/" target="blank"><img alt="luisemiliovalenzuela1 Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a></code> 
+<code><a href="https://discord.gg/LuisEmilio#2559" target="blank"><img alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></code> 
+<code><a href="https://twitter.com/luisemilovp" target="blank"><img alt="luisemilovp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a></code>
+</div>
