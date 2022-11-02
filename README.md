@@ -9,8 +9,13 @@ A passionate web full stack developer. I like to experiment with computer techno
 </h3>
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="luisemiliovp">
-<img src="https://user-images.githubusercontent.com/104704795/199367972-bac96309-a78a-440a-8077-d8a9a0cc9946.png" alt="luisemiliovp">
+<img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="luisemiliovp">
+<img height="195px" src="https://user-images.githubusercontent.com/104704795/199369278-6cbcdd80-b4ef-4cca-b109-afad6bc45303.png" alt="luisemiliovp">
 </div>
 
-
+<div align="left">
+<h3>📩 Follow me around the web </h3>
+<p> Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕. </p>
+</div>
+  
+ 
