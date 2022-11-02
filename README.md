@@ -9,8 +9,12 @@ A passionate web full stack developer. I like to experiment with computer techno
 </h3>
 
 <div align="center">
+<img src="img/code.png" alt="love_code">
+</div>
+	
+<div align="center">
 <img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="luisemiliovp">
-<img height="195px" src="https://user-images.githubusercontent.com/104704795/199369278-6cbcdd80-b4ef-4cca-b109-afad6bc45303.png" alt="luisemiliovp">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisemiliovp&layout=compact&title_color=6968C1&text_color=6968C1&bg_color=0,000000,130F40" />
 </div>
 
 <div align="left">
@@ -55,6 +59,9 @@ A passionate web full stack developer. I like to experiment with computer techno
   </p>
 </div>
 
+<div align="center">
+  <img src="img/Portada.png" alt="luisemiliovp">
+</div>
 	
 <div align="center">
 <a href="/badge?page_id=luisemiliovp.luisemiliovp"> <img alt="luisemiliovp" src="https://visitor-badge.glitch.me/badge?page_id=luisemiliovp.luisemiliovp"> </a>
