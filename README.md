@@ -25,6 +25,32 @@ A passionate web full stack developer. I like to experiment with computer techno
 <code><a href="https://twitter.com/luisemilovp" target="blank"><img alt="luisemilovp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a></code>
 </div>
  
-<p align="left">
-<h3 align="left">💻 Main skills:</h3>
-</p>
+<div align="left">
+  <h3>💻 Main skills:</h3>
+ <p align="left">
+ <a href="#"> <img src="svg/html.svg" alt="html5" style="vertical-align: top; margin: 6px 4px" /> </a>
+ <a href="#"> <img src="svg/css3.svg" alt="css3" style="vertical-align: top; margin: 6px 4px" /> </a>
+ <a href="#"> <img src="svg/js.svg" alt="javascript" style="vertical-align: top; margin: 6px 4px" /> </a>
+ </p>
+</div>
+
+<div align="left">
+	 <h3 align="left">👨‍💻 Studying in this moment</h3>
+  <p align="left">
+  <a href="#"><img src="svg/java.svg" alt="java" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/js.svg" alt="javascript" style="vertical-align: top; margin: 6px 4px" /> </a>
+  </p>
+</div>
+ 
+<div align="left">
+	<h3 align="left">⚙ Tools</h3>
+  <p align="left">
+  <a href="#"> <img src="svg/pc.svg" alt="windows" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/chrome.svg" alt="chrome" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/npm.svg" alt="npm" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/powershell.svg" alt="powershell" style="vertical-align: top; margin: 6px 4px" /> </a>
+  <a href="#"> <img src="svg/aws.svg" alt="aws" style="vertical-align: top; margin: 6px 4px" /> </a>
+  </p>
+</div>
