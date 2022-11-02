@@ -24,3 +24,7 @@ A passionate web full stack developer. I like to experiment with computer techno
 <code><a href="https://discord.gg/LuisEmilio#2559" target="blank"><img alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></code> 
 <code><a href="https://twitter.com/luisemilovp" target="blank"><img alt="luisemilovp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a></code>
 </div>
+ 
+ <div align="left">
+	<h3>💡 Main skills:</h3>
+</div>
