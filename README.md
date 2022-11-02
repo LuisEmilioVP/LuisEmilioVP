@@ -9,5 +9,8 @@ A passionate web full stack developer. I like to experiment with computer techno
 </h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="luisemiliovp">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisemiliovp&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="luisemiliovp">
+<img src="https://user-images.githubusercontent.com/104704795/199367972-bac96309-a78a-440a-8077-d8a9a0cc9946.png" alt="luisemiliovp">
 </div>
+
+
