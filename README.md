@@ -25,6 +25,6 @@ A passionate web full stack developer. I like to experiment with computer techno
 <code><a href="https://twitter.com/luisemilovp" target="blank"><img alt="luisemilovp | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a></code>
 </div>
  
- <div align="left">
-	<h3>💡 Main skills:</h3>
-</div>
+<p align="left">
+<h3 align="left">💻 Main skills:</h3>
+</p>
